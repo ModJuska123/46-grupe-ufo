@@ -1,55 +1,75 @@
-# Title
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
-Nuoroda: https://www.wikipedia.org
-Nuoroda: [Wiki](https://www.wikipedia.org)
+# UFO
+
+_Website design project_
+
+<br>
+
+## ⭐ About
+
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+
+Site published at: https://ModJuska123.github.io/46-grupe-ufo/
+
+Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
+
+##  ⛳Project features/goals
+
+-   Github pages
+-   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
+-   [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-   desktop only
+
+## ⏳ Getting Started
+
+### 💻 Prerequisites
+
+Node.js - _download and install_
+
 ```
-|\|\
-(~~)
-(  )*
-
-```
-```
-HTML 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UFO</title>
-</head>
-<body style="background-color: white;">
-    <main style="width: 60%; margin-left: 20%; margin-right: 20%; margin-top: 10%; display: inline-block">
-        <div style="width: 35%; float: left;">
-            <h1 style="color: rgb(0, 30, 255); font-size: 80px; font-family: Verdana, Geneva, Tahoma, sans-serif;">404</h1>
-            <p style="color: black; font-size: 22px; text-transform: uppercase; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;">Page not found</p>
-            <a style="border-radius: 50px; text-decoration: none; padding: 12px; padding-right: 24px; padding-left: 24px; display: inline block; font-size: 20px; border: 5px solid blue;" href="#">Go to home</a>
-        </div>
-        <img style="background-color: antiquewhite; width: 60%; float: right;" src="./ufo.jpg" alt="Ateiviu lekste vagianti daiktus">
-    </main>
-    </main>
-</body>
-</html>
-<!--savybe: reiksme 1:25:55-->>
+https://nodejs.org
 ```
 
-[Markdown documentation in GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Git - _download and install_
 
-Paprastas ~~tekstas~~.
+```
+https://git-scm.com
+```
 
-- Pirmas
-    - **pirmos antaras**
-    - **pirmo antras**
-    - _pirmo trecias_
+###  🚵 Run locally
 
-- Antras
+Would like to run this project locally? Open terminal and follow these steps:
 
-- Trecias
+1. Clone the repo
+    ```sh
+    git clone https://github.com/ModJuska123/46-grupe-ufo
+    ```
+2. Install NPM packages
+    ```sh
+    npm i
+    ```
+    or
+    ```sh
+    npm install
+    ```
+3. Run the server
+    ```sh
+    npm run dev
+    ```
 
-## 🎯Title
-- Paprastas tekstas.
+### 🛝 Running tests
 
-### 🎯Title
-- Paprastas tekstas.
+There is no tests for this project.
 
-#### 🎯Title
-- Paprastas tekstas.
+## 🎓 Authors
+
+Rimantas: [Github](https://github.com/belauzas)
+
+## 🎭 License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+## 🎎 Other resources
+
+No other resouces.
