@@ -1,3 +1,15 @@
+# Title
+
+Nuoroda: https://www.wikipedia.org
+Nuoroda: [Wiki](https://www.wikipedia.org)
+```
+|\|\
+(~~)
+(  )*
+
+```
+```
+HTML 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,3 +30,26 @@
 </body>
 </html>
 <!--savybe: reiksme 1:25:55-->>
+```
+
+[Markdown documentation in GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+Paprastas ~~tekstas~~.
+
+- Pirmas
+    - **pirmos antaras**
+    - **pirmo antras**
+    - _pirmo trecias_
+
+- Antras
+
+- Trecias
+
+## 🎯Title
+- Paprastas tekstas.
+
+### 🎯Title
+- Paprastas tekstas.
+
+#### 🎯Title
+- Paprastas tekstas.
