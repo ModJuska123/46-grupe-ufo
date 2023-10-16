@@ -64,7 +64,7 @@ There is no tests for this project.
 
 ## 🎓 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Modestas: [Github](https://github.com/ModJuska123)
 
 ## 🎭 License
 
